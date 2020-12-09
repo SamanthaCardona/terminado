@@ -1,0 +1,15 @@
+.container-sesion {
+  width: 100%;
+  margin: auto;
+  padding: 0 8%;
+}
+
+.btn-container {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 35%;
+}

@@ -1,0 +1,44 @@
+.container-pp {
+  width: 100%;
+}
+
+.cont-logros {
+  width: 98%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px auto;
+}
+h1 {
+  color: #000;
+}
+
+.card-title {
+  color: black;
+}
+.pp{
+  margin-top: 80px;
+  margin-left: 90px;
+  text-align: center;
+}
+
+.card {
+  width: 45%;
+}
+
+.info-hobby2 {
+  text-align: center;
+  margin: 0;
+}
+
+.btn-sig {
+  height: 80px;
+width: 180px;
+  color: #000;
+  background: purple; 
+  border-radius: 5px;
+  margin: auto;
+  display: center;
+  text-align: center;
+ transform: translate(-25%,-40%); 
+}

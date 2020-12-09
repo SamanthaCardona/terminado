@@ -1,0 +1,82 @@
+.container-ent {
+  width: 100%;
+  display: block;
+}
+.title-ent {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  color: white;
+  font-family: cursive;
+  font-size: 46px;
+}
+
+.contt {
+  width: 100%;
+  padding: 50px 11%;
+}
+
+.txt-ent {
+  font-size: 22px;
+  color: white;
+  box-shadow: 0px 10px 20px 10px rgba(0, 0, 0, 0.75);
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.txt-ent-title {
+  text-align: center;
+}
+
+.buttons {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 90px;
+}
+
+.btn-cont {
+display: block;
+float: right;
+width: 25%;
+padding: 15px;
+} 
+
+
+
+.botones {
+  padding: 10px;
+  background: rgb(121, 63, 163);
+  color: rgb(255, 255, 255);
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 120px;
+  margin-top: 90px;
+}
+
+.botones1 {
+  padding: 10px;
+  background: rgb(121, 63, 163);
+  color: rgb(255, 255, 255);
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 430px;
+  margin-top: -70px;
+}
+
+.Tituloe {
+  margin-top: 90px;
+  color: black;
+  font-size: 90px;
+}
+
+
